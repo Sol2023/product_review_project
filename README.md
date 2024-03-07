@@ -7,12 +7,17 @@
 
 **1. Web scraping**
 
-1.1 **Data Source**: 
+1.1 *Data Source*: 
+
 [1] Company Website
+
 [2] Amaozon
 
 1.2 **Tools**:
-[1] Python (with Selemium)
+
+[1] Python (with Selenium)
+
+
 
 
 **2. Data Cleaning in Python**
