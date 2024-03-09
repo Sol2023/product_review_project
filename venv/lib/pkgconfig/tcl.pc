@@ -1,0 +1,15 @@
+# tcl pkg-config source file
+
+prefix=/Users/shouzhenghuang/05_Work/NPIC/01_Project/01_Project/product_review_project/venv
+exec_prefix=/Users/shouzhenghuang/05_Work/NPIC/01_Project/01_Project/product_review_project/venv
+libdir=/Users/shouzhenghuang/05_Work/NPIC/01_Project/01_Project/product_review_project/venv/lib
+includedir=${prefix}/include
+
+Name: Tool Command Language
+Description: Tcl is a powerful, easy-to-learn dynamic programming language, suitable for a wide range of uses.
+URL: https://www.tcl-tk.org/
+Version: 8.6.12
+Requires.private: zlib >= 1.2.3
+Libs: -L${libdir} -ltcl8.6 -ltclstub8.6
+Libs.private:  -lz  -lpthread -framework CoreFoundation 
+Cflags: -I${includedir}
