@@ -61,3 +61,10 @@ Power BI
 <img width="863" alt="image" src="https://github.com/Sol2023/product_review_project/assets/92194263/e3c89275-9589-4720-812a-1a0521cdd4f2">
 
 
+**To do**
+
+- Fetch latest comment
+- Mapping all the product_id to company product name
+- Fetch client prodcut name and product id, after that fetch the related comment information
+- Keep accumulating the data
+- Add more marketing brand, and get insight with the market bench mark
