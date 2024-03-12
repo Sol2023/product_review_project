@@ -14,7 +14,15 @@ The primary objective of this project is to enhance customer satisfaction by ide
 
 [1] Company Website
 
+Fetch all the product name using python with selenium library
+
 [2] Amaozon
+
+First use instant data scraper to fetch existing data;
+
+After the pipeline built, use python to fetch the incoming new comments. 
+
+*note: Since Amazon Anti-scraping technology keeps improving, the current code might not fit for future situation
 
 1.2 **Tools**:
 
