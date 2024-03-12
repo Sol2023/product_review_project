@@ -27,6 +27,12 @@ The primary objective of this project is to enhance customer satisfaction by ide
 
 **3. OPENAI Labeling**
 
+Appling OPENAI API to conduct labeling in three dimensions: 
+
+1) Sentiment analysis: [Positive, Netural, Negative]
+2) Complaint Category:
+3) Quality Issues: 
+
 **4. Database Build**
 
 MySQL
@@ -34,3 +40,6 @@ MySQL
 **5. Data Visualization**
 
 Power BI
+
+<img width="865" alt="image" src="https://github.com/Sol2023/product_review_project/assets/92194263/64ea9667-62ec-4cf1-a7e2-ad16b9df21f7">
+
