@@ -14,7 +14,7 @@ The primary objective of this project is to enhance customer satisfaction by ide
 
 [1] Company Website
 
-- Fetch all the product name using python with selenium library, [check here](https://npicpet.com/collections/all)
+- Fetch all the product name using python with selenium library, [check company product here](https://npicpet.com/collections/all)
 
 [2] Amaozon
 
