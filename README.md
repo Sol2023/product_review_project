@@ -63,7 +63,7 @@ Power BI
 
 **To do**
 
-- Fetch latest comment
+- Keep fetching latest comment
 - Modify the dashboard, make the trend of positive rate for each product when mouse float on it
 - Mapping all the product_id to company product name
 - Fetch client prodcut name and product id, after that fetch the related comment information
