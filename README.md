@@ -8,7 +8,7 @@ The primary objective of this project is to enhance customer satisfaction by ide
 ![image](https://github.com/Sol2023/product_review_project/assets/92194263/021806f4-9847-41a9-ae6d-b457b856bcc4)
 
 
-**1. Web scraping**
+### **1. Web scraping**
 
 1.1 *Data Source*: 
 
@@ -31,13 +31,13 @@ The primary objective of this project is to enhance customer satisfaction by ide
 [2] Instant Data Scraper
 
 
-**2. Data Cleaning in Python**
+### **2. Data Cleaning in Python**
 
 - Fetch the comment datetime
 - Transfer rate stars from text to float
 - Select only product_id, username, rate_date, title, comment_body
 
-**3. OPENAI Labeling**
+### **3. OPENAI Labeling**
 
 Appling OPENAI API to conduct labeling in three dimensions: 
 
@@ -50,18 +50,18 @@ OPENAI API Fees for 3000 reviews labeling:
 <img width="1279" alt="image" src="https://github.com/Sol2023/product_review_project/assets/92194263/72f656a6-11ad-4122-84ed-c285f159270f">
 
 
-**4. Database Build**
+### **4. Database Build**
 
 MySQL
 
-**5. Data Visualization**
+### **5. Data Visualization**
 
 Power BI
 
 <img width="863" alt="image" src="https://github.com/Sol2023/product_review_project/assets/92194263/e3c89275-9589-4720-812a-1a0521cdd4f2">
 
 
-**To do**
+## **To do**
 
 - Keep fetching latest comment
 - Modify the dashboard, make the trend of positive rate for each product when mouse float on it
