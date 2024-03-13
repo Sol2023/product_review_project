@@ -54,6 +54,10 @@ OPENAI API Fees for 3000 reviews labeling:
 
 MySQL
 
+- Design SQL schema
+- Insert Cleaned data into database
+
+
 ### **5. Data Visualization**
 
 Power BI
