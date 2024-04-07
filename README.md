@@ -24,12 +24,6 @@ The primary objective of this project is to enhance customer satisfaction by ide
 
 *note: Since Amazon Anti-scraping technology keeps improving, the current code might not fit for future situation
 
-1.2 **Tools**:
-
-[1] Python (with Selenium)
-
-[2] Instant Data Scraper
-
 
 ### **2. Data Cleaning in Python**
 
@@ -44,11 +38,6 @@ Appling OPENAI API to conduct labeling in three dimensions:
 1) Sentiment analysis: [Positive, Netural, Negative]
 2) Complaint Category:
 3) Quality Issues:
-
-OPENAI API Fees for 3000 reviews labeling:
-
-<img width="1279" alt="image" src="https://github.com/Sol2023/product_review_project/assets/92194263/72f656a6-11ad-4122-84ed-c285f159270f">
-
 
 ### **4. Database Build**
 
