@@ -5,7 +5,8 @@ The primary objective of this project is to enhance customer satisfaction by ide
 
 ## Main Steps
 
-![image](https://github.com/Sol2023/product_review_project/assets/92194263/021806f4-9847-41a9-ae6d-b457b856bcc4)
+![image](https://github.com/Sol2023/product_review_project/assets/92194263/4309584a-4554-4675-996d-a0c11bbc2a9f)
+
 
 
 ### **1. Web scraping**
